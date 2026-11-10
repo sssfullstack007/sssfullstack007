@@ -11,13 +11,14 @@ I build small, working things and document them honestly — nothing is listed h
 ### Currently
 
 - Learning Python fundamentals → OOP and SOLID → SQL → backend development
-- Building command-line tools and, later, a small web app
-- Working with: Python, pandas, Git, HTML/CSS
+- Building command-line tools and a small Flask app
+- Working with: Python, Flask, pandas, Git, HTML/CSS
 
 ### Projects
 
 | Project | What it does | Stack |
 |---|---|---|
+| [AI Resume Screener](https://github.com/sssfullstack007/ai-resume-screener) | Ranks uploaded resumes against a job description, showing match score, matched skills and skill gaps | Python, Flask, spaCy, scikit-learn |
 | [Sustainable Farming Impact Dashboard](https://github.com/sssfullstack007/sustainable-farming-impact-dashboard) | Reproducible data-cleaning pipeline comparing crop yield per hectare | Python, pandas |
 
 More coming as I finish them, not before.
