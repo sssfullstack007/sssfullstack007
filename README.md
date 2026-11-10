@@ -18,7 +18,7 @@ I build small, working things and document them honestly — nothing is listed h
 
 | Project | What it does | Stack |
 |---|---|---|
-| [AI Resume Screener](https://github.com/sssfullstack007/ai-resume-screener) | Ranks uploaded resumes against a job description, showing match score, matched skills and skill gaps | Python, Flask, spaCy, scikit-learn |
+| [AI Resume Screener](https://github.com/sssfullstack007/ai-resume-screener) | Ranks uploaded resumes against a job description, showing match score, matched skills and skill gaps | Python, Flask, scikit-learn |
 | [Sustainable Farming Impact Dashboard](https://github.com/sssfullstack007/sustainable-farming-impact-dashboard) | Reproducible data-cleaning pipeline comparing crop yield per hectare | Python, pandas |
 
 More coming as I finish them, not before.
